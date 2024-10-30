@@ -1,5 +1,6 @@
 # project_one
 
+# BRAINSTORMING:
 ***
 ## Medical
 ### Canine Cancer: tumors
