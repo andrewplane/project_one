@@ -1,5 +1,13 @@
 # project_one
 
+# Looking at Data
+## Natural Disasters:
+- reliefweb.int Data begins in 1984
+- predictHQ has good prediction models. We could use it to test accuracy of predictions of past events and then predict forward?
+- reliefweb has resources sounding disaster data and information. (Free with no account needed)
+- earthquakes.usgs.gov has lots of data on earthquakes
+
+
 # BRAINSTORMING:
 ***
 ## Medical
