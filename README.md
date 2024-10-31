@@ -35,9 +35,9 @@
 ## Natural Disasters
 - Given the recent hurricanes, looking at natural disasters could be an interesting project.
 
-Disasters
-API	Description	Auth	HTTPS	CORS
-USGS	Earthquake Data	apiKey	Yes	Unknown
-RWLabs	All types of disaster data	apiKey	Yes	Unknown
-PredictHQ	Events and natural disasters data	oAuth	Yes	Unknown
-Ambee	Natural Disasters API	apiKey	Yes	Unknown
+-USGS: Earthquake Data	
+-RWLabs: All types of disaster data	
+-PredictHQ: Events and natural disasters data
+-Ambee: Natural Disasters API
+
+- https://github.com/public-api-lists/public-api-lists?tab=readme-ov-file#disasters
