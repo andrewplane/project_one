@@ -25,8 +25,19 @@
 ### Basketball
 - Salary caps vs performance
 - sportsdata.io/nba-api  - API free trial has scrambles data
-
+- Shot data: https://www.kaggle.com/datasets/techbaron13/nba-shots-dataset-2001-present?resource=download
 
 
 ***
 ## Gaming
+
+***
+## Natural Disasters
+- Given the recent hurricanes, looking at natural disasters could be an interesting project.
+
+Disasters
+API	Description	Auth	HTTPS	CORS
+USGS	Earthquake Data	apiKey	Yes	Unknown
+RWLabs	All types of disaster data	apiKey	Yes	Unknown
+PredictHQ	Events and natural disasters data	oAuth	Yes	Unknown
+Ambee	Natural Disasters API	apiKey	Yes	Unknown
