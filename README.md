@@ -49,3 +49,4 @@
 -Ambee: Natural Disasters API
 
 - https://github.com/public-api-lists/public-api-lists?tab=readme-ov-file#disasters
+- https://open-meteo.com/en/docs/flood-api
