@@ -1,8 +1,6 @@
 # Custom ignore
 .DS_Store
 config.py
-~$eu_enipi.xlsx
-
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
