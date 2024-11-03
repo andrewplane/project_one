@@ -1,7 +1,21 @@
 # project_one
 
+# Project delegation
+### Andrew
+- compare current disasters to historical data and run a statiscal treatment
+- pull current inofrmation from API
+
+### Chris
+
+
+### Riley
+
+
+****
 # Looking at Data
 ## Natural Disasters:
+- https://sedac.ciesin.columbia.edu/data/set/pend-gdis-1960-2018/data-download
+- ambeedata.com
 - reliefweb.int Data begins in 1984  https://apidoc.reliefweb.int/#api-use
 - predictHQ has good prediction models. We could use it to test accuracy of predictions of past events and then predict forward?
 - reliefweb has resources sounding disaster data and information. (Free with no account needed)
