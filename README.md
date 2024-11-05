@@ -1,4 +1,8 @@
 # project_one
+- Andrew Lane
+- Riley Laughlin
+- Ivan Manzi (in absentia)
+- Chris Prada
 
 # Project delegation
 ### Andrew
