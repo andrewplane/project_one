@@ -2,14 +2,20 @@
 
 # Project delegation
 ### Andrew
-- compare current disasters to historical data and run a statiscal treatment
-- pull current inofrmation from API
+- compare current disasters to historical data and run a statistical treatment
+- pull current information from API
+- interactive slider for geo plotted data by decades
 
 ### Chris
+- linear regression latitude vs storm intensity
+- linear regression latitude vs flood 
 
 
 ### Riley
-
+- data cleaning
+- number of cities effected
+- hv plot with slider
+- 
 
 ****
 # Looking at Data
