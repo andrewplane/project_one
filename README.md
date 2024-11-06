@@ -23,7 +23,9 @@
 - data cleaning
 - number of cities effected
 - hv plot with slider
-- 
+
+### Google Slides
+https://docs.google.com/presentation/d/1wKB59AQsu4EkDmYgyfozlZx7t0CR2h7-oVHL0vvThNY/edit?usp=sharing
 
 ****
 # Looking at Data
