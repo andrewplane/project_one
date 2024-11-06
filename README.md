@@ -9,6 +9,8 @@
 - compare current disasters to historical data and run a statistical treatment
 - pull current information from API
 - interactive slider for geo plotted data by decades
+- Floods by year w/regression
+- Storms by year w/regression
 
 ### Chris
 - linear regression latitude vs storm intensity
