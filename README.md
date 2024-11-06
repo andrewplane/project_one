@@ -1,7 +1,7 @@
 # project_one
 - Andrew Lane
 - Riley Laughlin
-- Ivan Manzi (in absentia)
+- Ivan Manzi
 - Chris Prada
 
 # Project delegation
@@ -16,6 +16,8 @@
 - linear regression latitude vs storm intensity
 - linear regression latitude vs flood 
 
+### Ivan
+- 
 
 ### Riley
 - data cleaning
