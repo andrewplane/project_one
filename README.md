@@ -22,16 +22,16 @@ This project analyzes natural disasters datasets, providing insights into the lo
 ### Key Tasks
 - **Data Collection & Cleaning**: Converted datasets using `pandas`.
 - **Summary Statistics**: Calculates mean, median, variance, standard deviation, and SEM of natural disasters.
-- **Geoplots**: Generate geo hvplots using longitude and latitude data for first dataset
-   - Heatmap of Impacted Regions (grouped by disaster type and decade)
-   - All Locations Affected by Natural Disasters (grouped by disaster type and decade
+- **Geoplots**: Generate geographical plots using `hvplots` using longitude and latitude data for first dataset
+    - Heatmap of Impacted Regions: Grouped by disaster type and decade.
+    - All Locations Affected by Natural Disasters: Grouped by disaster type and decade.
     
-**Linear Regression**: Generate scatter plots with regression line and equation to analyze:
-   - Time vs. Number of Floods
-   - Time vs. Number of Storms
-   - Time vs. Number of Earthquakes
-   - Time vs. Number of Volcanic Activities
-**Boxplot**: Displays the distribution of inflation adjusted cost across seven types of natural disaster (Flooding, Tropical Cyclone, Drought, Freeze, Severe Storm, Winter Storm, Wildfire), highlighting any outliers.
+- **Linear Regression**: Generate scatter plots with regression line and equation to analyze:
+    - Time vs. Number of Floods
+    - Time vs. Number of Storms
+    - Time vs. Number of Earthquakes
+    - Time vs. Number of Volcanic Activities
+- **Boxplot**: Displays the distribution of inflation adjusted cost across seven types of natural disaster (Flooding, Tropical Cyclone, Drought, Freeze, Severe Storm, Winter Storm, Wildfire), highlighting any outliers.
 
 ### Analysis
 Based our analysis, we found:
