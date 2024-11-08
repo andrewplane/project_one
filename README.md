@@ -13,24 +13,25 @@ This project analyzes natural disasters datasets, providing insights into the lo
 ## Datasets
 1. Geocoded Disasters (GDIS) Dataset, v1 (1960 – 2018). NASA Socioeconomic Data and Applications Center (SEDAC). Available at: [https://sedac.ciesin.columbia.edu/data/set/pend-gdis-1960-2018/data-download](https://sedac.ciesin.columbia.edu/data/set/pend-gdis-1960-2018/data-download)
 
-This dataset contains 39,953 locations for 9,924 global disasters from 1960 to 2018, including floods, storms, earthquakes, landslides, droughts, volcanic activity, and extreme temperatures.
+    This dataset contains 39,953 locations for 9,924 global disasters from 1960 to 2018, including floods, storms, earthquakes, landslides, droughts, volcanic activity, and extreme temperatures.
 
 2. U.S. Billion-dollar Weather and Climate Disasters, 1980 - present (NCEI Accession 0209268). National Centers for Environmental Information (NCEI), NOAA. Available at: [https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0209268](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0209268)
 
-This dataset contains U.S. disaster cost assessments of the total, direct losses ($ in millions) inflicted by: tropical cyclones, inland floods, drought & heat waves, severe local storms, wildfires, crop freeze events, and winter storms.
+    This dataset contains U.S. disaster cost assessments of the total, direct losses ($ in millions) inflicted by: tropical cyclones, inland floods, drought & heat waves, severe local storms, wildfires, crop freeze events, and winter storms.
 
 ### Key Tasks
 - **Data Collection & Cleaning**: Converted datasets using `pandas`.
 - **Summary Statistics**: Calculates mean, median, variance, standard deviation, and SEM of natural disasters.
 - **Geoplots**: Generate geo hvplots using longitude and latitude data for first dataset
-    - Heatmap of Impacted Regions (grouped by disaster type and decade)
-    - All Locations Affected by Natural Disasters (grouped by disaster type and decade)
+   - Heatmap of Impacted Regions (grouped by disaster type and decade)
+   - All Locations Affected by Natural Disasters (grouped by disaster type and decade
+    
 **Linear Regression**: Generate scatter plots with regression line and equation to analyze:
-    - Time vs. Number of Floods
-    - Time vs. Number of Storms
-    - Time vs. Number of Earthquakes
-    - Time vs. Number of Volcanic Activities
-- **Boxplot**: - Displays the distribution of inflation adjusted cost across seven types of natural disaster (Flooding, Tropical Cyclone, Drought, Freeze, Severe Storm, Winter Storm, Wildfire), highlighting any outliers.
+   - Time vs. Number of Floods
+   - Time vs. Number of Storms
+   - Time vs. Number of Earthquakes
+   - Time vs. Number of Volcanic Activities
+**Boxplot**: Displays the distribution of inflation adjusted cost across seven types of natural disaster (Flooding, Tropical Cyclone, Drought, Freeze, Severe Storm, Winter Storm, Wildfire), highlighting any outliers.
 
 ### Analysis
 Based our analysis, we found:
@@ -39,7 +40,7 @@ Based our analysis, we found:
 
 
 ## Presentation
-- Slide deck is located in the repository for reference.
+Slide deck is located in the repository for reference.
 
 ## Setup and Dependencies
 
