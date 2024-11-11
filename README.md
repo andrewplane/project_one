@@ -48,13 +48,13 @@ Before starting, ensure you have the following libraries installed:
 
 ```python
 # Dependencies
-# !pip install jupyter_bokeh bokeh hvplot pandas matplotlib scipy citipy
-
 import pandas as pd
 import hvplot.pandas
+import holoviews as hv
 import matplotlib.pyplot as plt
 import scipy.stats as st
-from citipy import citipys
+from citipy import citipy
+from bokeh.plotting import figure
 ```
 
 ## Running the Analysis
