@@ -35,9 +35,11 @@ This project analyzes natural disasters datasets, providing insights into the lo
 
 ### Analysis
 Based our analysis, we found:
-- The frequency of natural disasters does increase over time. 
+- The frequency of natural disasters does increase over time, particularly for floods and storms. It is unknown if this is due to climate change or improvements in tracking disasters. 
 - There is no correlation between duration of a natural disaster and CPI-adjusted cost.
-
+- Certain regions are more impacted by natural disasters, with Brady, Texas, experiencing the highest frequency of disasters from 1960–2018.
+- High-impact events vary in human and financial toll, with Hurricane Katrina having the highest CPI-adjusted cost ($200 billion) and Hurricane Maria having the highest death toll (2,981).
+- Disasters' financial costs show only a weak correlation with death tolls. The datasets does not contain information regarding storm intensity.
 
 ## Presentation
 Slide deck is located in the repository for reference.
