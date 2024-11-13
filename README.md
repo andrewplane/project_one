@@ -63,3 +63,9 @@ from bokeh.plotting import figure
 - Clone the repository and navigate to the project directory.
 - Install dependencies as shown above.
 - Run the Jupyter Notebook or Python script to generate the analysis and visualizations
+
+## Challenges with the Project
+- Most of our challenges revolve around the makeup of our team. 
+- One member, Ivan, was only present for a total of 15 mins combined for all team meetings and work sessions. Ivan did not contribute content to the project.
+- Another member, Chris, participated in the meetings and work sessions, helping with the conversation around our topic, but did not submit any completed content to the project. 
+- Riley and Andrew picked up the pieces and put a project together.
