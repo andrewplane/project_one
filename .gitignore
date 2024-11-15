@@ -2,7 +2,8 @@
 .DS_Store
 config.py
 ~$eu_enipi.xlsx
-
+old_versions of files/
+individual_jupyter_files/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
